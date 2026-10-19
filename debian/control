@@ -11,6 +11,7 @@ Architecture: arm64
 Depends: ${misc:Depends},
          adaptation-hybris-api32-tablet,
          adaptation-lenovo-tb320fc-configs (= ${binary:Version}),
+         libdroid-hal-lights,
 Description: Community adaptation for lenovo-tb320fc - metapackage
 
 Package: adaptation-lenovo-tb320fc-configs
