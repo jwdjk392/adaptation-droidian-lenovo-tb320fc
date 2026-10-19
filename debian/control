@@ -1,0 +1,19 @@
+Source: adaptation-lenovo-tb320fc
+Maintainer: jwdjk392 <jeongwan.bae@outlook.com>
+Section: metapackages
+Priority: optional
+Build-Depends: debhelper (>= 10),
+               debhelper-compat (= 13),
+Standards-Version: 4.5.0.3
+
+Package: adaptation-lenovo-tb320fc
+Architecture: arm64
+Depends: ${misc:Depends},
+         adaptation-hybris-api32-tablet,
+         adaptation-lenovo-tb320fc-configs (= ${binary:Version}),
+Description: Community adaptation for lenovo-tb320fc - metapackage
+
+Package: adaptation-lenovo-tb320fc-configs
+Architecture: arm64
+Depends: ${misc:Depends},
+Description: Community adaptation for lenovo-tb320fc - adaptation configurations

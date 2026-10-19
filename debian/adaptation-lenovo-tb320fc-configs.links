@@ -1,0 +1,2 @@
+/usr/lib/adaptation-lenovo-tb320fc/sources.list.d/community-lenovo-tb320fc.list /etc/apt/sources.list.d/community-lenovo-tb320fc.list
+/usr/lib/adaptation-lenovo-tb320fc/trusted.gpg.d/community-lenovo-tb320fc.gpg /etc/apt/trusted.gpg.d/community-lenovo-tb320fc.gpg
