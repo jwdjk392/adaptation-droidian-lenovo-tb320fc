@@ -1,0 +1,11 @@
+Package: adaptation-lenovo-tb320fc-configs
+Source: adaptation-lenovo-tb320fc
+Version: 0.0.0+git20261019155803.7291784.main
+Architecture: arm64
+Maintainer: jwdjk392 <jeongwan.bae@outlook.com>
+Installed-Size: 36
+Section: metapackages
+Priority: optional
+Description: Community adaptation for lenovo-tb320fc - adaptation configurations
+X-Droidian-Vcs-Revision: 7291784e2c45c297da9a66c13259ba05da626475
+X-Droidian-Vcs-Url: https://github.com/jwdjk392/adaptation-droidian-lenovo-tb320fc.git

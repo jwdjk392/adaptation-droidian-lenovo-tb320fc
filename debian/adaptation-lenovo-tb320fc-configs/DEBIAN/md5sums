@@ -1,0 +1,5 @@
+b3039812904114640d6bb1065ba78ee0  usr/lib/adaptation-lenovo-tb320fc/sources.list.d/community-lenovo-tb320fc.list
+a32af569ea0247c883af69ad152c22a1  usr/lib/adaptation-lenovo-tb320fc/trusted.gpg.d/community-lenovo-tb320fc.gpg
+50e2b86ee627724b2c0573ae511549dd  usr/share/doc/adaptation-lenovo-tb320fc-configs/changelog.gz
+ca53fd567aea409fad86691a0fc597e2  usr/share/doc/adaptation-lenovo-tb320fc-configs/copyright
+a32af569ea0247c883af69ad152c22a1  usr/share/keyrings/tb320fc.gpg
